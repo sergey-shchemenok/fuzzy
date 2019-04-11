@@ -1,4 +1,4 @@
 Flask
 fuzzywuzzy
-mysql
 mysql-connector
+uwsgi
